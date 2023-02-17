@@ -17,7 +17,7 @@ I comment all of description in my code too
 
 Training Continuous Perceptron
 Activation function: Sigmoid
-We stop the loop when the chenges in weights are lower than threshold
+We stop the loop when the changes in weights are lower than threshold
 
 
 Training Discrete Perceptron 
